@@ -5,6 +5,7 @@ const Navbar = ()  => {
     return(
         <div className="navbar-container">
             <div className="navbar-list">
+                <div className="intro"></div>
         
         
             <h4>Home</h4>
