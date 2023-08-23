@@ -1,0 +1,13 @@
+.navbar-container{
+  display:flex;
+}
+.navbar-list{
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+
+}
+.intro{
+  width: 40%;
+  
+} 
