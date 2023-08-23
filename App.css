@@ -5,9 +5,11 @@
   width: 50%;
   display: flex;
   justify-content: space-between;
+  align-items: end;
 
 }
 .intro{
   width: 40%;
   
 } 
+
